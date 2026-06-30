@@ -1,0 +1,15 @@
+Connexion pour PowerBI:
+
+    Server:   aws-1-ca-central-1.pooler.supabase.com:5432
+    Database: postgres
+    User:     postgres.xtxeyfxoyhdptpyacmuq
+    Password: +HcG9_S7Hg&%6jj
+
+
+Base de données supabase
+
+(linked à mon github)
+
+GitHub Action pour exécuter le pipeline (pas l'air très stable...)
+
+
