@@ -3,7 +3,7 @@ name: Pipeline Supabase Test
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   run-pipeline:
